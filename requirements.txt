@@ -1,0 +1,6 @@
+bitarray
+Adafruit_ADS1x15
+RPi.GPIO
+Adafruit-Blinka
+sarp_utils
+pytest
